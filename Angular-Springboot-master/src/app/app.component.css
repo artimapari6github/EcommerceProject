@@ -1,0 +1,12 @@
+.jumbotron {
+  margin-bottom: 0;
+  background-color: hwb(120 42% 25%);
+}
+
+.head-title {
+  margin-bottom: 30px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(172, 82, 139);
+  font-family: "verdana", cursive;
+  
+}
